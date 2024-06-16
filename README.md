@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+# Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project fetches and displays weather information for user-specified locations using React.
+##Getting Started
+This project was bootstrapped with Create React App.
 ## Available Scripts
 
 In the project directory, you can run:
